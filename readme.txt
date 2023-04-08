@@ -6,4 +6,4 @@
 ~ 3) In test_sarcasmdetection.py file, you can enter your api key, YouTube video id and api key and run the file
 
 ~ Thank you for being here
-~ I am happy to hear for any purposes : hello@ghimireprashant.com.np
+~ I am happy to hear for any purposes : hi@ghimireprashant.com.np
